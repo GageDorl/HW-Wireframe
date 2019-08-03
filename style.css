@@ -33,7 +33,7 @@ section{
     width:495px;
     float:left;
     padding:20px 10px 10px 10px;
-    
+    margin-bottom:10px;
     text-align: center;
     
 }
@@ -41,6 +41,7 @@ aside{
     float:right;
     width:430px;
     padding:20px 0 213px 0;
+    margin-bottom:20px;
     
 }
 mid{
@@ -52,4 +53,8 @@ mid{
 }
 #mrsect{
     padding:0 0 20px 0;
+}
+footer{
+    float:left;
+    margin:0;
 }
